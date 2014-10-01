@@ -5,8 +5,11 @@
     "display_name" : "AMD Super Brightness Fix",
     "description" : "Reduces the brightness of the sunlight for those with the AMD brightness bug - WIP",
     "author" : "nixtempestas",
-    "data" : "2014/10/01",
+    "category": [
+      "bugfix"
+    ],
+    "date" : "2014/10/01",
     "forum" : "https://forums.uberent.com/threads/planet-lighting.63312/#post-986458",
-    "version" : "1.0",
+    "version" : "1.1",
     "signature" : "(not yet implemented)"
 }
